@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sajidifti
 - 👀 I’m interested in web development
-- 🌱 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on bulding amazing websites
-- 📫 How to reach me https://sajidifti.com
+- 📫 How to reach me https://sajidifti.github.io/portfolio
 
 <!---
 sajidifti/sajidifti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
