@@ -11,17 +11,17 @@
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/sajidifti](github.com/sajidifti)
+- 👨‍💻 All of my projects are available at [github.com/sajidifti](https://github.com/sajidifti)
 
-- 📝 I regularly write articles on [medium.sajidifti.com](medium.sajidifti.com)
+- 📝 I regularly write articles on [medium.sajidifti.com](https://medium.sajidifti.com)
 
 - 💬 Ask me about **Machine Learning, Django, Python**
 
 - 📫 How to reach me **info@sajidifti.com**
 
-- 🌐 My website [sajidifti.com](sajidifti.com)
+- 🌐 My website [sajidifti.com](https://sajidifti.com)
 
-- 📄 Know about my experiences [sajidifti.com/CV](sajidifti.com/CV)
+- 📄 Know about my experiences [sajidifti.com/CV](https://sajidifti.com/CV)
 
 - ⚡ Fun fact **In the movie Interstellar the design of TARS was inspired by lollipop sticks. It's my favorite movie.**
 
