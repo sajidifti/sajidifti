@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sajidifti](https://github.com/sajidifti)
 
-- 📝 I regularly write articles on [medium.sajidifti.com](https://medium.sajidifti.com)
+- 📝 I regularly write articles on [sajidifti.medium.com](https://sajidifti.medium.com)
 
 - 💬 Ask me about **Machine Learning, Django, Python**
 
