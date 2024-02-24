@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidifti" alt="sajidifti" /></a> </p>
 
-- 🔭 I’m currently working on [Shorty - URL Shortener](https://github.com/sajidifti/Shorty-URL_Shortener)
+- 🔭 I’m currently working on [Recipe App API](https://github.com/sajidifti/recipe-app-api)
 
 - 🌱 I’m currently polishing my skills of **Django and Python**
 
