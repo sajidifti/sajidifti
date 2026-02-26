@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm iFTi from Dhaka, Bangladesh!<br><br>- 🔭 I’m working as a Backend Software Engineer at Skyline Digital Solutions LTD.<br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I watch anime and play games</p>
+<p align="left">I'm iFTi from Dhaka, Bangladesh!<br><br>- 🔭 I’m working as a Backend Software Engineer at Banglalink Digital Communications LTD.<br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I watch anime and play games</p>
 
 ###
 
